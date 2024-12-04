@@ -49,21 +49,6 @@ This roadmap provides:
 - Matplotlib/Seaborn
 - Jupyter Notebooks
 
-## 📈 Learning Path Progress Tracker
-
-- [ ] Phase 1: Prerequisites (2-3 months)
-- [ ] Phase 2: Machine Learning Basics (3-4 months)
-- [ ] Phase 3: Deep Learning Foundations (3-4 months)
-- [ ] Phase 4: Practical Projects (2-3 months)
-
-## 🎓 Getting Started
-
-1. **Assessment**: Start by assessing your current knowledge in mathematics and programming
-2. **Prerequisites**: Complete any missing prerequisites before moving to ML concepts
-3. **Practice**: Implement each concept as you learn
-4. **Projects**: Build projects starting from simple to complex
-5. **Community**: Join ML communities and participate in discussions
-
 ## 🔗 Additional Resources
 
 - [Essential Mathematics for Machine Learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
@@ -73,12 +58,7 @@ This roadmap provides:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 ⭐️ If you find this roadmap helpful, don't forget to give it a star!
 
-*Note: This roadmap is continuously updated to reflect the latest developments in ML. Last updated: December 2024*
+
